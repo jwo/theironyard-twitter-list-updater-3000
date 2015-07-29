@@ -12,6 +12,9 @@ Usage
 1. View your
 1. dance in your awesome
 
+![woDance](https://dl.dropboxusercontent.com/1/view/9dowmglcjc3y68f/Public/Jwo.gif
+)
+
 ![cant-buy-me-love](http://i.giphy.com/mWmwUyFk1rCXC.gif)
 
 Installation
